@@ -1,0 +1,12 @@
+a.tolkin.top:443
+a.tolkin.top:80
+k.swweb.top:443
+sd28.vip:443
+sd28.vip:80
+sd28.vip:8080
+sd28.vip:8443
+w.swweb.top:443
+www.sd28.vip:443
+www.sd28.vip:80
+www.sd28.vip:8080
+www.sd28.vip:8443
